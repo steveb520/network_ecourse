@@ -1,13 +1,19 @@
 # Module 4: Leveraging Social Media
 
-## Lesson 4.1: Social Media Basics
-Different platforms serve different audiences. Choosing the right platform is critical for effective lead generation.
+## What you’ll learn
+- Start conversations that surface real needs
+- Qualify interest without being pushy
+- Collect contact info and permission to follow up
+- Run a weekly routine that compounds results
 
-## Lesson 4.2: Building an Online Presence
-A strong profile builds trust before conversations begin.
+## Start here
+➡️ **Lesson 4.1: Social media basics for lead gen** → [Social media basics for lead gen](lesson-01-social-media-basics.md)
 
-## Lesson 4.3: Engaging with Your Audience
-Consistent engagement fosters relationships and credibility.
+## Lessons
+1. **Lesson 4.1:** [Social media basics for lead gen](lesson-01-social-media-basics.md)
+1. **Lesson 4.2:** [Build an online presence that converts](lesson-02-building-your-online-presence.md)
+1. **Lesson 4.3:** [Engagement systems (comments, DMs, groups)](lesson-03-engaging-with-your-audience.md)
 
-## Exercise
-Engage with five relevant posts and start one conversation.
+## Practice
+- 🧠 [Exercises](exercises.md)
+- ✅ [Quiz](quiz.md)
