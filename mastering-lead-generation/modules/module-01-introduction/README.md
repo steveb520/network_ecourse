@@ -1,40 +1,17 @@
 # Module 1: Introduction to Lead Generation
 
-## What You’ll Learn
-- What lead generation actually is (and isn’t)
-- Why everyday interactions matter more than cold outreach
-- How this course is structured
+## Lesson 1.1: Understanding Lead Generation
+Lead generation is the process of attracting and converting strangers and prospects into individuals who have indicated interest in your company’s product or service. This interest can take many forms, including conversations, questions, social engagement, or direct inquiries.
 
----
+Historically, lead generation relied on interruption-based tactics such as cold calling and mass advertising. Modern lead generation is relationship-driven and conversation-based.
 
-## Lesson 1.1: What Is Lead Generation?
-Lead generation is the process of identifying and nurturing people who may benefit from your product or service.
+Key takeaway: Lead generation begins with listening, not selling.
 
-Modern lead generation is **relationship-first**, not pitch-first.
+## Lesson 1.2: Evolution of Lead Generation
+Technology has transformed lead generation. Buyers are more informed, more selective, and more resistant to aggressive sales tactics. Businesses that adapt by focusing on trust, education, and timing outperform those that rely on volume alone.
 
----
+## Lesson 1.3: Inbound vs Outbound
+Inbound marketing attracts prospects through value and education. Outbound marketing initiates contact. The most effective strategies combine both approaches with a human-centered mindset.
 
-## Lesson 1.2: The Shift to Everyday Lead Generation
-Old model:
-- Cold calls
-- Cold emails
-- Interruptions
-
-Modern model:
-- Conversations
-- Trust
-- Timing
-
-Every interaction is a potential lead.
-
----
-
-## Practical Exercise
-Write down:
-- 5 recent conversations you had (work, social, online)
-- Note which ones *could* have turned into a lead
-
----
-
-## Reflection
-Where are you already interacting with potential leads without realizing it?
+## Exercise
+List 5 recent conversations and identify potential lead signals.
