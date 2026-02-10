@@ -1,16 +1,16 @@
-# Module 3: Building Relationships — Quiz
+# Module 3 Quiz
 
-**Instructions:** answer without looking back first. Then review.
+1. What is real networking actually about?
+2. Why do most people miss lead opportunities?
+3. What role does listening play in trust-building?
+4. Why are daily interactions powerful for lead generation?
+5. What is the core mindset shift in relationship-based lead gen?
 
-1) In your own words, what is a “lead”?  
-2) Give 3 examples of conversation “signals.”  
-3) Write one open-ended qualifying question you can use today.  
-4) What is a permission-based next step? Give 2 examples.  
-5) What is one “value offer” you can deliver in under 60 seconds?
+---
 
-## Answer key (self-check)
-- A lead has a problem you can solve and a realistic path to becoming a customer.
-- Signals reveal need, urgency, authority, or willingness to engage.
-- Great questions invite context, not yes/no.
-- Permission-based next steps are low-pressure and respectful (“Want me to…”).
-- Value offers are small helpful assets: checklist, quick tip, estimate range, intro, etc.
+## Answer Key
+1. Familiarity, trust, and context
+2. Lack of awareness and presence
+3. It makes people feel understood
+4. They reveal real needs naturally
+5. Focusing on connection over outcomes
