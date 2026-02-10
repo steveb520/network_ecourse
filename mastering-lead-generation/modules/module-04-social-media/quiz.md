@@ -1,16 +1,16 @@
-# Module 4: Leveraging Social Media — Quiz
+# Module 4 Quiz
 
-**Instructions:** answer without looking back first. Then review.
+1. What is the primary purpose of an elevator pitch?
+2. Why do most elevator pitches feel unnatural?
+3. What are the three core elements of an effective pitch?
+4. Why is tailoring a pitch important?
+5. What should never change when adapting your pitch?
 
-1) In your own words, what is a “lead”?  
-2) Give 3 examples of conversation “signals.”  
-3) Write one open-ended qualifying question you can use today.  
-4) What is a permission-based next step? Give 2 examples.  
-5) What is one “value offer” you can deliver in under 60 seconds?
+---
 
-## Answer key (self-check)
-- A lead has a problem you can solve and a realistic path to becoming a customer.
-- Signals reveal need, urgency, authority, or willingness to engage.
-- Great questions invite context, not yes/no.
-- Permission-based next steps are low-pressure and respectful (“Want me to…”).
-- Value offers are small helpful assets: checklist, quick tip, estimate range, intro, etc.
+## Answer Key
+1. To create clarity and invite conversation
+2. They try to impress instead of connect
+3. Problem, solution, direction
+4. Different audiences value different signals
+5. Core value and intent
