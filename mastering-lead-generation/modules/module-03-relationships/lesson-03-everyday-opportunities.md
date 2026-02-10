@@ -1,52 +1,48 @@
-# Lesson 3.3: Finding opportunities in everyday interactions
+# Lesson 3.3: Finding Opportunities in Daily Interactions
 
+Lead opportunities exist everywhere — but only if you’re paying attention.
 
-## Key idea
-Write 1–2 sentences in your own words: **what is this lesson really about?**
+This lesson is about awareness, not tactics.
 
-## Definitions (plain English)
-- **Lead:** someone with a problem you can solve *and* a path to becoming a customer (now or later).
-- **Signal:** a phrase or behavior that suggests interest, urgency, budget, or authority.
-- **Next step:** a small, low-pressure action that moves the relationship forward.
+---
 
-## The framework
-### 1) Notice signals
-Examples:
-- “We’ve been thinking about…”
-- “Do you know anyone who…”
-- “We’re comparing options…”
+## Why Most Opportunities Are Missed
 
-### 2) Ask one great question
-Use an open-ended question that invites detail:
-- “What’s making this important right now?”
-- “What have you tried so far?”
-- “What would ‘done’ look like?”
+People rush conversations.
+They listen for their turn to talk.
+They focus on outcomes instead of connection.
 
-### 3) Offer value in 30 seconds
-- A quick tip
-- A short checklist
-- A common mistake to avoid
-- A resource you can send
+Opportunity slips by unnoticed.
 
-### 4) Permission-based next step
-- “Want me to text you that checklist?”
-- “If I send a 2-minute summary, would that be useful?”
-- “Want to compare notes for 10 minutes this week?”
+---
 
-## Practical examples
-Write 2 examples relevant to your work:
-1. Situation: ________  Signal: ________  Question: ________  Next step: ________
-2. Situation: ________  Signal: ________  Question: ________  Next step: ________
+## What to Listen For
 
-## Mini exercise (5 minutes)
-Pick one person you talk to regularly (customer, friend, neighbor, vendor).
-- What signals do they show?
-- What question would you ask?
-- What value can you offer fast?
-- What next step can you ask permission for?
+Signals show up in everyday conversation:
+- frustration
+- curiosity
+- uncertainty
+- comparison
 
-## Checklist
-- [ ] I can explain this lesson in 1 sentence
-- [ ] I have 3 questions ready to use
-- [ ] I can name 2 “value offers” I can deliver quickly
-- [ ] I have a permission-based follow-up line
+When someone expresses one of these, they’re revealing a potential need.
+
+---
+
+## How to Respond Without Selling
+
+The goal is not to jump in.
+The goal is to stay engaged.
+
+Questions work better than statements:
+- “What’s driving that?”
+- “How are you thinking about it?”
+- “What’s been challenging?”
+
+---
+
+## The Core Skill
+
+You don’t create opportunities.
+You **notice** them.
+
+That awareness is what separates natural lead generators from forced ones.
