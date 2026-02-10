@@ -1,6 +1,5 @@
 site_name: Mastering Lead Generation Through Everyday Interactions
 
-# Use the nested course folder as the docs source
 docs_dir: mastering-lead-generation
 site_dir: _site
 
@@ -8,8 +7,8 @@ theme:
   name: material
 
 nav:
-  - Home: index.md
-  - Course Overview: course-overview.md
+  - Home: README.md
+  - Course Overview: COURSE_OVERVIEW.md
   - Modules:
       - "Module 1: Introduction": modules/module-01-introduction/README.md
       - "Module 2: Lead Types": modules/module-02-lead-types/README.md
@@ -21,4 +20,3 @@ nav:
       - "Module 8: Capstone": modules/module-08-capstone/README.md
   - Templates:
       - Elevator Pitch Builder: templates/elevator-pitch-builder.md
-
