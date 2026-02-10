@@ -1,19 +1,29 @@
 # Module 3: Building Relationships
 
-## What you’ll learn
-- Start conversations that surface real needs
-- Qualify interest without being pushy
-- Collect contact info and permission to follow up
-- Run a weekly routine that compounds results
+Lead generation does not start with a pitch.  
+It starts with a relationship — even if that relationship only lasts a few minutes.
 
-## Start here
-➡️ **Lesson 3.1: The Power of Networking (without being 'salesy')** → [The Power of Networking (without being 'salesy')](lesson-01-networking.md)
+In this module, I focus on the part most people skip: **how trust is actually built in everyday interactions**. Not over time, not through manipulation, but through how you show up in conversation.
 
-## Lessons
-1. **Lesson 3.1:** [The Power of Networking (without being 'salesy')](lesson-01-networking.md)
-1. **Lesson 3.2:** [Communication Skills that create trust fast](lesson-02-communication.md)
-1. **Lesson 3.3:** [Finding opportunities in everyday interactions](lesson-03-everyday-opportunities.md)
+If you get this module right, everything downstream becomes easier.
 
-## Practice
-- 🧠 [Exercises](exercises.md)
-- ✅ [Quiz](quiz.md)
+---
+
+## What You’ll Learn
+- Why relationships matter even in short interactions
+- How trust is created (and broken) quickly
+- How to spot lead opportunities without forcing them
+
+---
+
+## Lessons in This Module
+- **Lesson 3.1:** The Power of Networking  
+- **Lesson 3.2:** Effective Communication Skills  
+- **Lesson 3.3:** Finding Opportunities in Daily Interactions  
+
+---
+
+## How to Use This Module
+Read with awareness. These lessons are less about tactics and more about behavior.
+
+Pay attention to how you currently interact with people — this module will change that.
