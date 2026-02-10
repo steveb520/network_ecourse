@@ -1,52 +1,57 @@
-# Lesson 2.1: Marketing Qualified Leads (MQLs) vs Sales Qualified Leads (SQLs)
+# Lesson 2.1: Marketing Qualified Leads vs Sales Qualified Leads
 
+One of the biggest mistakes I see people make is assuming that *interest* means *readiness*.
 
-## Key idea
-Write 1–2 sentences in your own words: **what is this lesson really about?**
+It doesn’t.
 
-## Definitions (plain English)
-- **Lead:** someone with a problem you can solve *and* a path to becoming a customer (now or later).
-- **Signal:** a phrase or behavior that suggests interest, urgency, budget, or authority.
-- **Next step:** a small, low-pressure action that moves the relationship forward.
+Someone can be interested, curious, even enthusiastic — and still not be ready to take action. Understanding this distinction changes how you communicate and how you follow up.
 
-## The framework
-### 1) Notice signals
-Examples:
-- “We’ve been thinking about…”
-- “Do you know anyone who…”
-- “We’re comparing options…”
+---
 
-### 2) Ask one great question
-Use an open-ended question that invites detail:
-- “What’s making this important right now?”
-- “What have you tried so far?”
-- “What would ‘done’ look like?”
+## Marketing Qualified Leads (MQLs)
 
-### 3) Offer value in 30 seconds
-- A quick tip
-- A short checklist
-- A common mistake to avoid
-- A resource you can send
+A Marketing Qualified Lead is someone who has raised their hand *a little*.
 
-### 4) Permission-based next step
-- “Want me to text you that checklist?”
-- “If I send a 2-minute summary, would that be useful?”
-- “Want to compare notes for 10 minutes this week?”
+They are saying:
+> “This sounds interesting. Tell me more.”
 
-## Practical examples
-Write 2 examples relevant to your work:
-1. Situation: ________  Signal: ________  Question: ________  Next step: ________
-2. Situation: ________  Signal: ________  Question: ________  Next step: ________
+They are **not** saying:
+> “I’m ready to decide.”
 
-## Mini exercise (5 minutes)
-Pick one person you talk to regularly (customer, friend, neighbor, vendor).
-- What signals do they show?
-- What question would you ask?
-- What value can you offer fast?
-- What next step can you ask permission for?
+### Real-World Examples
+- Someone asks how something works, but not how much it costs
+- Someone downloads a guide or resource
+- Someone engages in conversation but avoids specifics
 
-## Checklist
-- [ ] I can explain this lesson in 1 sentence
-- [ ] I have 3 questions ready to use
-- [ ] I can name 2 “value offers” I can deliver quickly
-- [ ] I have a permission-based follow-up line
+Your job with an MQL is **education and trust-building**, not closing.
+
+---
+
+## Sales Qualified Leads (SQLs)
+
+A Sales Qualified Lead shows **intent**, not just curiosity.
+
+They are saying:
+> “I’m considering action, and I’m evaluating options.”
+
+### Real-World Signals
+- They ask about pricing, timing, or next steps
+- They mention constraints (budget, schedule, approval)
+- They compare options out loud
+
+With an SQL, clarity beats persuasion. They want help deciding, not convincing.
+
+---
+
+## Why This Matters
+
+If you treat an MQL like an SQL, you create pressure.
+If you treat an SQL like an MQL, you create friction.
+
+Most lost deals aren’t “lost” — they’re mishandled.
+
+---
+
+## Key Takeaway
+Your job is not to push people forward.  
+Your job is to **meet them where they already are**.
