@@ -1,52 +1,52 @@
-# Lesson 2.2: Lead Scoring (simple, usable, and not overkill)
+# Lesson 2.2: Lead Scoring in the Real World
 
+Lead scoring sounds technical, but at its core it’s simple:
 
-## Key idea
-Write 1–2 sentences in your own words: **what is this lesson really about?**
+> How much attention should this person get *right now*?
 
-## Definitions (plain English)
-- **Lead:** someone with a problem you can solve *and* a path to becoming a customer (now or later).
-- **Signal:** a phrase or behavior that suggests interest, urgency, budget, or authority.
-- **Next step:** a small, low-pressure action that moves the relationship forward.
+Time is your most limited resource. Lead scoring protects it.
 
-## The framework
-### 1) Notice signals
-Examples:
-- “We’ve been thinking about…”
-- “Do you know anyone who…”
-- “We’re comparing options…”
+---
 
-### 2) Ask one great question
-Use an open-ended question that invites detail:
-- “What’s making this important right now?”
-- “What have you tried so far?”
-- “What would ‘done’ look like?”
+## What Lead Scoring Is (and Isn’t)
 
-### 3) Offer value in 30 seconds
-- A quick tip
-- A short checklist
-- A common mistake to avoid
-- A resource you can send
+Lead scoring is not about labeling people.
+It’s about **prioritizing action**.
 
-### 4) Permission-based next step
-- “Want me to text you that checklist?”
-- “If I send a 2-minute summary, would that be useful?”
-- “Want to compare notes for 10 minutes this week?”
+A simple mental model works better than a complex system.
 
-## Practical examples
-Write 2 examples relevant to your work:
-1. Situation: ________  Signal: ________  Question: ________  Next step: ________
-2. Situation: ________  Signal: ________  Question: ________  Next step: ________
+---
 
-## Mini exercise (5 minutes)
-Pick one person you talk to regularly (customer, friend, neighbor, vendor).
-- What signals do they show?
-- What question would you ask?
-- What value can you offer fast?
-- What next step can you ask permission for?
+## A Practical Scoring Framework
 
-## Checklist
-- [ ] I can explain this lesson in 1 sentence
-- [ ] I have 3 questions ready to use
-- [ ] I can name 2 “value offers” I can deliver quickly
-- [ ] I have a permission-based follow-up line
+I use three categories:
+
+### 1. Engagement
+Are they responsive? Do they ask questions? Do they follow up?
+
+### 2. Specificity
+Are they vague, or are they talking in specifics?
+
+### 3. Urgency
+Is there a reason something needs to happen soon?
+
+Each category gives you signal.
+
+---
+
+## Example
+
+Two people say they’re “interested.”
+
+- Person A asks general questions and disappears for weeks.
+- Person B asks how long the process takes and what the next step is.
+
+Same word. Completely different priority.
+
+---
+
+## The Point
+You’re not ranking people by importance.
+You’re ranking **conversations by momentum**.
+
+That’s how you stay effective without burning out.
