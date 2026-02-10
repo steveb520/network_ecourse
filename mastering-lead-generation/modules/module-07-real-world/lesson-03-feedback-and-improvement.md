@@ -1,4 +1,4 @@
-# Lesson 7.1: Case studies (what actually worked)
+# Lesson 7.3: Feedback loops and continuous improvement
 
 
 ## Key idea

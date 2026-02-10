@@ -1,4 +1,4 @@
-# Lesson 7.1: Case studies (what actually worked)
+# Lesson 7.2: Role-playing scripts (practice reps)
 
 
 ## Key idea
