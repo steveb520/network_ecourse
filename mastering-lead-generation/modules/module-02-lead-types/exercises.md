@@ -1,41 +1,25 @@
-# Module 2: Different Types of Leads — Exercises
+# Module 2 Exercises
 
-## Exercise 1: Signal spotting (real life)
-Over the next 24 hours, write down **5 signals** you hear in conversations.
+## Exercise 1: Identify the Lead Type
+Think of 5 recent conversations.
 
-For each, capture:
-- Who said it:
-- What they said (quote):
-- What it might indicate (need / timing / budget / authority):
-- Your best next question:
+For each one, write:
+- What did the person say?
+- Were they curious or committed?
+- MQL or SQL?
 
-## Exercise 2: 10 conversation reps
-Have 10 short conversations this week.
-Goal: **one helpful question + one value offer**.
+---
 
-Track:
-- Person:
-- Where:
-- Signal:
-- Question asked:
-- Value offered:
-- Next step requested:
-- Outcome:
+## Exercise 2: Score the Conversation
+Give each conversation a score from 1–5 based on:
+- Engagement
+- Specificity
+- Urgency
 
-## Exercise 3: Follow-up permission script
-Write 3 versions of a follow-up line:
-1) Text
-2) Email
-3) DM
+---
 
-Examples:
-- “Want me to send you a quick checklist I use?”
-- “If I send 3 options, would that help?”
-- “Want to pick a time for 10 minutes this week?”
+## Exercise 3: Adjust Your Response
+Rewrite how you *should* have followed up with each person,
+based on their actual lead type.
 
-## Exercise 4: Personal action plan (mini)
-Fill this out:
-- My ideal lead is: ______________________
-- The top 3 problems I solve are: 1) ___ 2) ___ 3) ___
-- My best “value offer” is: ______________________
-- My weekly target is: ___ conversations, ___ follow-ups, ___ booked calls
+This is where improvement happens.
