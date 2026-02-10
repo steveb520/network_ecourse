@@ -1,1 +1,0 @@
-# Capstone – Lead Generation Blueprint
