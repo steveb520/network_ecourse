@@ -1,13 +1,19 @@
 # Module 3: Building Relationships
 
-## Lesson 3.1: The Power of Networking
-Networking is the intentional building of trust-based relationships. Effective networking focuses on curiosity and service rather than selling.
+## What you’ll learn
+- Start conversations that surface real needs
+- Qualify interest without being pushy
+- Collect contact info and permission to follow up
+- Run a weekly routine that compounds results
 
-## Lesson 3.2: Communication Skills
-Strong communication involves active listening, open-ended questions, and empathy.
+## Start here
+➡️ **Lesson 3.1: The Power of Networking (without being 'salesy')** → [The Power of Networking (without being 'salesy')](lesson-01-networking.md)
 
-## Lesson 3.3: Opportunities in Daily Interactions
-Lead opportunities exist in everyday settings. Awareness and follow-up turn conversations into results.
+## Lessons
+1. **Lesson 3.1:** [The Power of Networking (without being 'salesy')](lesson-01-networking.md)
+1. **Lesson 3.2:** [Communication Skills that create trust fast](lesson-02-communication.md)
+1. **Lesson 3.3:** [Finding opportunities in everyday interactions](lesson-03-everyday-opportunities.md)
 
-## Exercise
-Initiate three non-sales conversations this week.
+## Practice
+- 🧠 [Exercises](exercises.md)
+- ✅ [Quiz](quiz.md)
