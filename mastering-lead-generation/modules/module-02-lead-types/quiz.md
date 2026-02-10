@@ -1,16 +1,16 @@
-# Module 2: Different Types of Leads — Quiz
+# Module 2 Quiz
 
-**Instructions:** answer without looking back first. Then review.
+1. What separates an MQL from an SQL?
+2. Why is lead scoring primarily about time management?
+3. What happens when you push an MQL too hard?
+4. What does segmentation help you avoid?
+5. What is the core responsibility of a lead generator?
 
-1) In your own words, what is a “lead”?  
-2) Give 3 examples of conversation “signals.”  
-3) Write one open-ended qualifying question you can use today.  
-4) What is a permission-based next step? Give 2 examples.  
-5) What is one “value offer” you can deliver in under 60 seconds?
+---
 
-## Answer key (self-check)
-- A lead has a problem you can solve and a realistic path to becoming a customer.
-- Signals reveal need, urgency, authority, or willingness to engage.
-- Great questions invite context, not yes/no.
-- Permission-based next steps are low-pressure and respectful (“Want me to…”).
-- Value offers are small helpful assets: checklist, quick tip, estimate range, intro, etc.
+## Answer Key (for self-check)
+1. Intent, not interest
+2. It protects focus and prioritization
+3. Pressure and disengagement
+4. Generic, mismatched messaging
+5. Meeting people where they are
