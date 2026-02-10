@@ -1,3 +1,10 @@
+site_name: Mastering Lead Generation Through Everyday Interactions
+
+docs_dir: mastering-lead-generation
+site_dir: _site
+
+theme:
+  name: material
 nav:
   - Home: README.md
   - Course Overview: COURSE_OVERVIEW.md
