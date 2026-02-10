@@ -1,7 +1,12 @@
 site_name: Mastering Lead Generation Through Everyday Interactions
-site_description: A practical, conversation-first course on generating high-quality leads through everyday interactions.
+
+# IMPORTANT: use repo root as docs directory
+docs_dir: .
+site_dir: site
+
 theme:
   name: material
+
 nav:
   - Home: index.md
   - Course Overview: COURSE_OVERVIEW.md
