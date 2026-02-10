@@ -1,41 +1,36 @@
-# Module 5: Crafting Your Elevator Pitch — Exercises
+# Module 5 Exercises: Make Your Name Travel
 
-## Exercise 1: Signal spotting (real life)
-Over the next 24 hours, write down **5 signals** you hear in conversations.
+## Exercise 1: Write your “How to introduce me” line
+Write one sentence someone else could say.
 
-For each, capture:
-- Who said it:
-- What they said (quote):
-- What it might indicate (need / timing / budget / authority):
-- Your best next question:
+Template:
+“I know someone who helps ____ for people who ____.”
 
-## Exercise 2: 10 conversation reps
-Have 10 short conversations this week.
-Goal: **one helpful question + one value offer**.
+Make it simple enough that your mom could repeat it.
 
-Track:
-- Person:
-- Where:
-- Signal:
-- Question asked:
-- Value offered:
-- Next step requested:
-- Outcome:
+---
 
-## Exercise 3: Follow-up permission script
-Write 3 versions of a follow-up line:
-1) Text
-2) Email
-3) DM
+## Exercise 2: Create your “text-forward intro”
+Write a message your friend can send to someone who needs help:
 
-Examples:
-- “Want me to send you a quick checklist I use?”
-- “If I send 3 options, would that help?”
-- “Want to pick a time for 10 minutes this week?”
+“Hey — you mentioned ____. I know someone solid who does this. Want me to connect you?”
 
-## Exercise 4: Personal action plan (mini)
-Fill this out:
-- My ideal lead is: ______________________
-- The top 3 problems I solve are: 1) ___ 2) ___ 3) ___
-- My best “value offer” is: ______________________
-- My weekly target is: ___ conversations, ___ follow-ups, ___ booked calls
+---
+
+## Exercise 3: Pick ONE landing spot
+Choose one:
+- your website
+- your phone number
+- your booking link
+
+Write it down and commit to it.
+
+---
+
+## Exercise 4: Run the “3-person activation”
+This week, reach out to 3 people in your network:
+
+“Quick ask — if you hear anyone mention ____ in the next few weeks, I’d appreciate you thinking of me.
+If it helps, here’s the easiest way to introduce me (copy/paste): ____.”
+
+Track results.
