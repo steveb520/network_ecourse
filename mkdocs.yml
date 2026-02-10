@@ -11,13 +11,14 @@ nav:
   - Home: index.md
   - Course Overview: COURSE_OVERVIEW.md
   - Modules:
-      - "Module 1: Introduction": modules/module-01-introduction/README.md
-      - "Module 2: Lead Types": modules/module-02-lead-types/README.md
-      - "Module 3: Relationships": modules/module-03-relationships/README.md
-      - "Module 4: Social Media": modules/module-04-social-media/README.md
-      - "Module 5: Elevator Pitch": modules/module-05-elevator-pitch/README.md
-      - "Module 6: Follow-Up": modules/module-06-follow-up/README.md
-      - "Module 7: Real-World": modules/module-07-real-world/README.md
-      - "Module 8: Capstone": modules/module-08-capstone/README.md
+      - "Module 1: Introduction": module-01-introduction/README.md
+      - "Module 2: Lead Types": module-02-lead-types/README.md
+      - "Module 3: Relationships": module-03-relationships/README.md
+      - "Module 4: Social Media": module-04-social-media/README.md
+      - "Module 5: Elevator Pitch": module-05-elevator-pitch/README.md
+      - "Module 6: Follow-Up": module-06-follow-up/README.md
+      - "Module 7: Real-World": module-07-real-world/README.md
+      - "Module 8: Capstone": module-08-capstone/README.md
+      
   - Templates:
       - Elevator Pitch Builder: templates/elevator-pitch-builder.md
