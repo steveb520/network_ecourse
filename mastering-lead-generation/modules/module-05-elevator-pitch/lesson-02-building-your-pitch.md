@@ -1,52 +1,77 @@
-# Lesson 5.2: Build your pitch (Problem → Proof → Plan)
+# Lesson 5.2: Build Your “Name Package” (What People Repeat)
 
+If I want people to promote me, I have to give them something they can copy/paste.
 
-## Key idea
-Write 1–2 sentences in your own words: **what is this lesson really about?**
+I call this my “Name Package.”
 
-## Definitions (plain English)
-- **Lead:** someone with a problem you can solve *and* a path to becoming a customer (now or later).
-- **Signal:** a phrase or behavior that suggests interest, urgency, budget, or authority.
-- **Next step:** a small, low-pressure action that moves the relationship forward.
+It’s not marketing.
+It’s a set of simple phrases and tools that help someone introduce me confidently.
 
-## The framework
-### 1) Notice signals
-Examples:
-- “We’ve been thinking about…”
-- “Do you know anyone who…”
-- “We’re comparing options…”
+---
 
-### 2) Ask one great question
-Use an open-ended question that invites detail:
-- “What’s making this important right now?”
-- “What have you tried so far?”
-- “What would ‘done’ look like?”
+## Part 1: The 1-Sentence Identity
 
-### 3) Offer value in 30 seconds
-- A quick tip
-- A short checklist
-- A common mistake to avoid
-- A resource you can send
+This is what someone can say at a party:
 
-### 4) Permission-based next step
-- “Want me to text you that checklist?”
-- “If I send a 2-minute summary, would that be useful?”
-- “Want to compare notes for 10 minutes this week?”
+“I know someone who helps with ____ for people who ____.”
 
-## Practical examples
-Write 2 examples relevant to your work:
-1. Situation: ________  Signal: ________  Question: ________  Next step: ________
-2. Situation: ________  Signal: ________  Question: ________  Next step: ________
+Examples (generic, not industry-specific):
+- “I know someone who helps families make big decisions without stress.”
+- “I know someone who helps business owners fix broken systems quickly.”
+- “I know someone who helps people get clarity and take action.”
 
-## Mini exercise (5 minutes)
-Pick one person you talk to regularly (customer, friend, neighbor, vendor).
-- What signals do they show?
-- What question would you ask?
-- What value can you offer fast?
-- What next step can you ask permission for?
+I’m not trying to sound fancy.
+I’m trying to be repeatable.
 
-## Checklist
-- [ ] I can explain this lesson in 1 sentence
-- [ ] I have 3 questions ready to use
-- [ ] I can name 2 “value offers” I can deliver quickly
-- [ ] I have a permission-based follow-up line
+---
+
+## Part 2: The 3 Proof Points People Can Borrow
+
+These are short and safe:
+- Fast response
+- Clear communication
+- Clean process / no surprises
+
+People don’t want to exaggerate for you.
+Give them facts they can say without feeling weird.
+
+Example:
+- “They respond fast.”
+- “They’re organized.”
+- “They don’t disappear after the first call.”
+
+---
+
+## Part 3: The “Text-Forward” Intro
+
+This is the most practical referral tool:
+
+**A message someone can send to a friend.**
+
+Template:
+“Hey — you mentioned ____. I know someone solid who does this. Want an intro?”
+
+If yes:
+“Cool. I’ll connect you. They’re responsive and easy to work with.”
+
+I want this to feel like helping a friend, not “selling my guy.”
+
+---
+
+## Part 4: The Landing Spot (Where People Send Them)
+
+If someone introduces you, what do they send?
+
+Pick ONE:
+- your website
+- your Calendly link
+- your phone number
+- your “quick intro” page
+
+The mistake is giving too many options.
+Confusion kills action.
+
+---
+
+## The Goal
+When someone thinks of you, the next step should be obvious.
