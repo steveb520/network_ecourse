@@ -1,19 +1,35 @@
-# Module 5: Crafting Your Elevator Pitch
+# Module 5: Becoming the Name People Share
 
-## What you’ll learn
-- Start conversations that surface real needs
-- Qualify interest without being pushy
-- Collect contact info and permission to follow up
-- Run a weekly routine that compounds results
+The highest-quality leads don’t come from “marketing harder.”
+They come from other people saying your name.
 
-## Start here
-➡️ **Lesson 5.1: What is an elevator pitch?** → [What is an elevator pitch?](lesson-01-what-is-an-elevator-pitch.md)
+This module is about making it easy — and natural — for people in your network to:
+- bring you up in conversation
+- vouch for you without being asked
+- connect you to someone who needs help
+
+I’m not trying to “get referrals.”
+I’m building a reputation that travels.
+
+---
+
+## What You’ll Learn
+- Why people recommend some names and not others
+- How to make your work easy to describe and repeat
+- How to get warm intros without awkward asking
+- How to stay top-of-mind (without spamming)
+
+---
 
 ## Lessons
-1. **Lesson 5.1:** [What is an elevator pitch?](lesson-01-what-is-an-elevator-pitch.md)
-1. **Lesson 5.2:** [Build your pitch (Problem → Proof → Plan)](lesson-02-building-your-pitch.md)
-1. **Lesson 5.3:** [Tailor your pitch to different audiences](lesson-03-tailoring-your-pitch.md)
+- Lesson 5.1: Why People Share Names (and What Stops Them)
+- Lesson 5.2: Build Your “Name Package” (What People Repeat)
+- Lesson 5.3: Get Warm Intros That Actually Convert
 
-## Practice
-- 🧠 [Exercises](exercises.md)
-- ✅ [Quiz](quiz.md)
+---
+
+## Outcome
+By the end of this module you’ll have:
+- a repeatable “how to introduce me” line
+- a simple follow-up system
+- a network habit that produces inbound calls
