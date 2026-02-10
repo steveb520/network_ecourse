@@ -1,16 +1,16 @@
-# Module 5: Crafting Your Elevator Pitch — Quiz
+# Module 5 Quiz: Becoming the Name People Share
 
-**Instructions:** answer without looking back first. Then review.
+1) Why is “repeatable clarity” more important than sounding impressive?
+2) What is the difference between a warm intro and a name drop?
+3) Why do group text intros work better than DMs?
+4) What makes a next step “permission-based”?
+5) What is the purpose of a single “landing spot”?
 
-1) In your own words, what is a “lead”?  
-2) Give 3 examples of conversation “signals.”  
-3) Write one open-ended qualifying question you can use today.  
-4) What is a permission-based next step? Give 2 examples.  
-5) What is one “value offer” you can deliver in under 60 seconds?
+---
 
-## Answer key (self-check)
-- A lead has a problem you can solve and a realistic path to becoming a customer.
-- Signals reveal need, urgency, authority, or willingness to engage.
-- Great questions invite context, not yes/no.
-- Permission-based next steps are low-pressure and respectful (“Want me to…”).
-- Value offers are small helpful assets: checklist, quick tip, estimate range, intro, etc.
+## Answer Key
+1) Because people only share what they can remember and repeat
+2) Warm intros include context + trust + a reason for connection
+3) Momentum + shared context + faster response loop
+4) You ask before advancing, keeping it low-pressure
+5) It removes confusion and makes action easy
