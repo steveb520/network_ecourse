@@ -1,52 +1,91 @@
-# Lesson 5.3: Tailor your pitch to different audiences
+# Lesson 5.3: Get Warm Intros That Actually Convert
 
+A warm intro is not “someone told me your name.”
+A warm intro is:
 
-## Key idea
-Write 1–2 sentences in your own words: **what is this lesson really about?**
+- context
+- trust
+- a clear reason you’re being connected
+- an easy next step
 
-## Definitions (plain English)
-- **Lead:** someone with a problem you can solve *and* a path to becoming a customer (now or later).
-- **Signal:** a phrase or behavior that suggests interest, urgency, budget, or authority.
-- **Next step:** a small, low-pressure action that moves the relationship forward.
+This lesson is about turning “my buddy gave me your name” into a real conversation.
 
-## The framework
-### 1) Notice signals
-Examples:
-- “We’ve been thinking about…”
-- “Do you know anyone who…”
-- “We’re comparing options…”
+---
 
-### 2) Ask one great question
-Use an open-ended question that invites detail:
-- “What’s making this important right now?”
-- “What have you tried so far?”
-- “What would ‘done’ look like?”
+## Definitions (Plain English)
 
-### 3) Offer value in 30 seconds
-- A quick tip
-- A short checklist
-- A common mistake to avoid
-- A resource you can send
+**Lead**
+Someone with a problem you can solve and a path to becoming a customer (now or later).
 
-### 4) Permission-based next step
-- “Want me to text you that checklist?”
-- “If I send a 2-minute summary, would that be useful?”
-- “Want to compare notes for 10 minutes this week?”
+**Signal**
+A phrase or behavior that suggests interest, urgency, budget, or authority.
 
-## Practical examples
-Write 2 examples relevant to your work:
-1. Situation: ________  Signal: ________  Question: ________  Next step: ________
-2. Situation: ________  Signal: ________  Question: ________  Next step: ________
+**Warm intro**
+A connection where someone bridges trust and context — not just a name drop.
 
-## Mini exercise (5 minutes)
-Pick one person you talk to regularly (customer, friend, neighbor, vendor).
-- What signals do they show?
-- What question would you ask?
-- What value can you offer fast?
-- What next step can you ask permission for?
+---
 
-## Checklist
-- [ ] I can explain this lesson in 1 sentence
-- [ ] I have 3 questions ready to use
-- [ ] I can name 2 “value offers” I can deliver quickly
-- [ ] I have a permission-based follow-up line
+## The Framework
+
+### 1) Set the intro up the right way (before it happens)
+
+If I want better intros, I tell people exactly how to do it.
+
+I give them this:
+“Happy to help. Best way is a quick group text intro so I have context.”
+
+Why?
+Because intros die in DMs.
+Group text creates momentum.
+
+---
+
+### 2) Use the “context question” immediately
+
+When the intro comes in, my first move is not selling.
+It’s one great question:
+
+- “Appreciate the intro — what’s going on and what are you trying to solve?”
+- “What made you start looking at this now?”
+- “What would a great outcome look like?”
+
+This turns the intro into a real conversation fast.
+
+---
+
+### 3) Provide value in under 60 seconds
+
+I don’t pitch.
+I give a small win.
+
+Options:
+- one helpful tip
+- one common mistake to avoid
+- one fast checklist
+- one clarifying insight
+
+If I can make them feel relief early, trust rises.
+
+---
+
+### 4) Permission-based next step (low pressure)
+
+I don’t say “When can we meet?”
+I say:
+
+- “Want to do a quick 10-minute call so I can point you the right direction?”
+- “If I send you a simple checklist, would that help?”
+- “If I ask 3 questions I’ll know whether this is something I can help with — want to do that?”
+
+This keeps it easy.
+And easy moves forward.
+
+---
+
+## Why This Works
+
+People don’t convert because of pressure.
+They convert because of confidence.
+
+A warm intro is borrowed trust.
+My job is to turn borrowed trust into earned trust quickly.
