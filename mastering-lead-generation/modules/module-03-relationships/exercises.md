@@ -1,41 +1,28 @@
-# Module 3: Building Relationships — Exercises
+# Module 3 Exercises
 
-## Exercise 1: Signal spotting (real life)
-Over the next 24 hours, write down **5 signals** you hear in conversations.
+## Exercise 1: Relationship Awareness
+Think about your last 5 conversations.
 
-For each, capture:
-- Who said it:
-- What they said (quote):
-- What it might indicate (need / timing / budget / authority):
-- Your best next question:
+For each one, ask:
+- Did I listen or wait to talk?
+- Did I ask questions or make statements?
+- Did I rush the interaction?
 
-## Exercise 2: 10 conversation reps
-Have 10 short conversations this week.
-Goal: **one helpful question + one value offer**.
+---
 
-Track:
-- Person:
-- Where:
-- Signal:
-- Question asked:
-- Value offered:
-- Next step requested:
-- Outcome:
+## Exercise 2: Trust Check
+Identify one interaction where trust increased and one where it didn’t.
 
-## Exercise 3: Follow-up permission script
-Write 3 versions of a follow-up line:
-1) Text
-2) Email
-3) DM
+Write:
+- What you did differently
+- How the other person responded
 
-Examples:
-- “Want me to send you a quick checklist I use?”
-- “If I send 3 options, would that help?”
-- “Want to pick a time for 10 minutes this week?”
+---
 
-## Exercise 4: Personal action plan (mini)
-Fill this out:
-- My ideal lead is: ______________________
-- The top 3 problems I solve are: 1) ___ 2) ___ 3) ___
-- My best “value offer” is: ______________________
-- My weekly target is: ___ conversations, ___ follow-ups, ___ booked calls
+## Exercise 3: Opportunity Recognition
+For the next 3 days, note:
+- one moment of frustration
+- one moment of curiosity
+- one moment of comparison
+
+These are lead signals in disguise.
