@@ -1,13 +1,19 @@
 # Module 2: Different Types of Leads
 
-## Lesson 2.1: Marketing Qualified Leads (MQLs)
-MQLs are individuals who have shown interest but are not yet ready to buy. Examples include content downloads, social engagement, or general questions.
+## What you’ll learn
+- Start conversations that surface real needs
+- Qualify interest without being pushy
+- Collect contact info and permission to follow up
+- Run a weekly routine that compounds results
 
-## Lesson 2.2: Sales Qualified Leads (SQLs)
-SQLs demonstrate intent through budget discussions, timelines, or direct requests for pricing.
+## Start here
+➡️ **Lesson 2.1: Marketing Qualified Leads (MQLs) vs Sales Qualified Leads (SQLs)** → [Marketing Qualified Leads (MQLs) vs Sales Qualified Leads (SQLs)](lesson-01-mql-vs-sql.md)
 
-## Lesson 2.3: Lead Scoring and Segmentation
-Lead scoring helps prioritize outreach based on engagement and intent. Segmentation allows tailored communication that increases conversion.
+## Lessons
+1. **Lesson 2.1:** [Marketing Qualified Leads (MQLs) vs Sales Qualified Leads (SQLs)](lesson-01-mql-vs-sql.md)
+1. **Lesson 2.2:** [Lead Scoring (simple, usable, and not overkill)](lesson-02-lead-scoring.md)
+1. **Lesson 2.3:** [Segmentation that drives replies and referrals](lesson-03-segmentation.md)
 
-## Exercise
-Score 10 leads using engagement and intent indicators.
+## Practice
+- 🧠 [Exercises](exercises.md)
+- ✅ [Quiz](quiz.md)
