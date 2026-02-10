@@ -23,13 +23,62 @@ nav:
           - Exercises: modules/module-01-introduction/exercises.md
           - Quiz: modules/module-01-introduction/quiz.md
 
-      - "Module 2: Lead Types": modules/module-02-lead-types/README.md
-      - "Module 3: Relationships": modules/module-03-relationships/README.md
-      - "Module 4: Social Media": modules/module-04-social-media/README.md
-      - "Module 5: Elevator Pitch": modules/module-05-elevator-pitch/README.md
-      - "Module 6: Follow-Up": modules/module-06-follow-up/README.md
-      - "Module 7: Real-World": modules/module-07-real-world/README.md
-      - "Module 8: Capstone": modules/module-08-capstone/README.md
+      - "Module 2: Lead Types":
+          - Overview: modules/module-02-lead-types/README.md
+          - Lesson 2.1: modules/module-02-lead-types/lesson-01-mql-vs-sql.md
+          - Lesson 2.2: modules/module-02-lead-types/lesson-02-lead-scoring.md
+          - Lesson 2.3: modules/module-02-lead-types/lesson-03-segmentation.md
+          - Exercises: modules/module-02-lead-types/exercises.md
+          - Quiz: modules/module-02-lead-types/quiz.md
+
+      - "Module 3: Relationships":
+          - Overview: modules/module-03-relationships/README.md
+          - Lesson 3.1: modules/module-03-relationships/lesson-01-networking.md
+          - Lesson 3.2: modules/module-03-relationships/lesson-02-communication.md
+          - Lesson 3.3: modules/module-03-relationships/lesson-03-everyday-opportunities.md
+          - Exercises: modules/module-03-relationships/exercises.md
+          - Quiz: modules/module-03-relationships/quiz.md
+
+      - "Module 4: Social Media":
+          - Overview: modules/module-04-social-media/README.md
+          - Lesson 4.1: modules/module-04-social-media/lesson-01-social-media-basics.md
+          - Lesson 4.2: modules/module-04-social-media/lesson-02-building-your-online-presence.md
+          - Lesson 4.3: modules/module-04-social-media/lesson-03-engaging-with-your-audience.md
+          - Exercises: modules/module-04-social-media/exercises.md
+          - Quiz: modules/module-04-social-media/quiz.md
+
+      - "Module 5: Elevator Pitch":
+          - Overview: modules/module-05-elevator-pitch/README.md
+          - Lesson 5.1: modules/module-05-elevator-pitch/lesson-01-what-is-an-elevator-pitch.md
+          - Lesson 5.2: modules/module-05-elevator-pitch/lesson-02-building-your-pitch.md
+          - Lesson 5.3: modules/module-05-elevator-pitch/lesson-03-tailoring-your-pitch.md
+          - Exercises: modules/module-05-elevator-pitch/exercises.md
+          - Quiz: modules/module-05-elevator-pitch/quiz.md
+
+      - "Module 6: Follow-Up":
+          - Overview: modules/module-06-follow-up/README.md
+          - Lesson 6.1: modules/module-06-follow-up/lesson-01-importance-of-follow-up.md
+          - Lesson 6.2: modules/module-06-follow-up/lesson-02-follow-up-messages.md
+          - Lesson 6.3: modules/module-06-follow-up/lesson-03-crm-tools.md
+          - Exercises: modules/module-06-follow-up/exercises.md
+          - Quiz: modules/module-06-follow-up/quiz.md
+
+      - "Module 7: Real-World":
+          - Overview: modules/module-07-real-world/README.md
+          - Lesson 7.1: modules/module-07-real-world/lesson-01-case-studies.md
+          - Lesson 7.2: modules/module-07-real-world/lesson-02-role-playing.md
+          - Lesson 7.3: modules/module-07-real-world/lesson-03-feedback-and-improvement.md
+          - Exercises: modules/module-07-real-world/exercises.md
+          - Quiz: modules/module-07-real-world/quiz.md
+
+      - "Module 8: Capstone":
+          - Overview: modules/module-08-capstone/README.md
+          - Lesson 8.1: modules/module-08-capstone/lesson-01-recap-of-key-learnings.md
+          - Lesson 8.2: modules/module-08-capstone/lesson-02-setting-personal-goals.md
+          - Lesson 8.3: modules/module-08-capstone/lesson-03-additional-resources.md
+          - Exercises: modules/module-08-capstone/exercises.md
+          - Quiz: modules/module-08-capstone/quiz.md
+
 
   - Templates:
       - Elevator Pitch Builder: templates/elevator-pitch-builder.md
