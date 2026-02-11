@@ -80,5 +80,4 @@ nav:
           - Quiz: modules/module-08-capstone/quiz.md
 
       - "Module 9: Connection Builder Workshop":
-          - Overview: modules/module-09-connection-builder-workshop/README.md
           - Workshop (20–30 min): modules/module-09-connection-builder-workshop/lesson-01-connection-builder-workshop.md
