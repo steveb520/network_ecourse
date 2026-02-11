@@ -1,52 +1,77 @@
-# Lesson 6.2: Follow-up messages that get replies
-
+# Lesson 6.2: Follow-Up Messages That Get Replies
 
 ## Key idea
-Write 1–2 sentences in your own words: **what is this lesson really about?**
+Great follow-up messages do three things:
+1) remind them who I am  
+2) show I listened  
+3) make the next step easy
 
-## Definitions (plain English)
-- **Lead:** someone with a problem you can solve *and* a path to becoming a customer (now or later).
-- **Signal:** a phrase or behavior that suggests interest, urgency, budget, or authority.
-- **Next step:** a small, low-pressure action that moves the relationship forward.
+## The 5-part message structure (copy/paste framework)
+I use this:
 
-## The framework
-### 1) Notice signals
-Examples:
-- “We’ve been thinking about…”
-- “Do you know anyone who…”
-- “We’re comparing options…”
+1) **Context:** “Great talking at ___ / about ___.”
+2) **Specific recall:** “You mentioned ___.”
+3) **Value:** “Here’s ___ that helps.”
+4) **Low-pressure next step:** “Want me to ___?”
+5) **Exit ramp:** “If now isn’t the time, no worries.”
 
-### 2) Ask one great question
-Use an open-ended question that invites detail:
-- “What’s making this important right now?”
-- “What have you tried so far?”
-- “What would ‘done’ look like?”
+This makes me feel professional, not pushy.
 
-### 3) Offer value in 30 seconds
-- A quick tip
-- A short checklist
-- A common mistake to avoid
-- A resource you can send
+---
 
-### 4) Permission-based next step
-- “Want me to text you that checklist?”
-- “If I send a 2-minute summary, would that be useful?”
-- “Want to compare notes for 10 minutes this week?”
+## Templates I can use immediately
 
-## Practical examples
-Write 2 examples relevant to your work:
-1. Situation: ________  Signal: ________  Question: ________  Next step: ________
-2. Situation: ________  Signal: ________  Question: ________  Next step: ________
+### 1) Same-day recap follow-up
+**Subject/DM:** Great talking today  
+“Great talking earlier — I wrote down what you said about **___**.  
+Here’s **one quick idea** that usually helps: **___**.  
+If you want, I can send you a short checklist for **___**.”
 
-## Mini exercise (5 minutes)
-Pick one person you talk to regularly (customer, friend, neighbor, vendor).
-- What signals do they show?
-- What question would you ask?
-- What value can you offer fast?
-- What next step can you ask permission for?
+### 2) 48-hour “value drop”
+“Quick follow-up — based on what you said about **___**, here’s a simple way to think about it:  
+**Option A:** ___  
+**Option B:** ___  
+If you tell me what matters more (speed vs cost vs quality), I can point you the right direction.”
 
-## Checklist
-- [ ] I can explain this lesson in 1 sentence
-- [ ] I have 3 questions ready to use
-- [ ] I can name 2 “value offers” I can deliver quickly
-- [ ] I have a permission-based follow-up line
+### 3) “Permission-based” next step
+“Want me to put together a quick **___** for you?  
+No pressure — if it’s helpful, great. If not, totally fine.”
+
+### 4) “Answer the question they didn’t ask”
+“Something I didn’t mention earlier: most people run into **___** when they try to **___**.  
+If you want, I can show you how to avoid it in 2 minutes.”
+
+### 5) “Closing the loop” (clean and confident)
+“Closing the loop on this — do you want to:  
+A) move forward this week  
+B) circle back later  
+C) drop it for now  
+No wrong answer — I just want to track it correctly.”
+
+This message gets replies because it’s easy to choose.
+
+---
+
+## The 3 biggest mistakes (and what I do instead)
+
+### Mistake 1: “Just checking in”
+It’s vague and low-value.  
+**Instead:** I add a reason + value.
+
+### Mistake 2: Too long
+People skim.  
+**Instead:** 3–6 lines max. One clear CTA.
+
+### Mistake 3: Asking for a big decision
+“Are you ready to buy?” creates pressure.  
+**Instead:** I ask for a small next step.
+
+---
+
+## My “two-sentence follow-up” rule
+If I’m unsure what to say, I send:
+
+1) One sentence showing I listened  
+2) One sentence offering something useful + a small next step
+
+Follow-up doesn’t need perfect writing. It needs consistency.
