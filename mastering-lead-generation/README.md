@@ -1,11 +1,13 @@
-# Mastering Lead Generation Through Everyday Interactions
+# Be The Name  
+## Foundations of Positioning & Relationship Leverage
 
-A practical, conversation-first course designed to help professionals
-generate high-quality leads through daily interactions—without cold pitching.
+Most sales training teaches you how to close better.
 
-## How to Use This Course
-- Complete modules in order
-- Read lessons carefully
-- Complete exercises honestly
-- Take quizzes after each module
-- Finish the capstone to complete the course
+This program teaches you how positioning and relationships shape the quality of the opportunities you receive.
+
+Deal quality is not random.
+It is influenced long before you sit at the table.
+
+Over the next 6–8 hours, you will learn how market perception, professional relationships, and ecosystem leverage determine whether you compete… or whether you’re positioned.
+
+This is the shift from selling harder — to being positioned smarter.
