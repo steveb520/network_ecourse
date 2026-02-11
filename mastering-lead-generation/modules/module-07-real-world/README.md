@@ -1,19 +1,36 @@
-# Module 7: Real-Life Applications
+# Module 7: Real-World Application (Make It Real)
 
-## What you’ll learn
-- Start conversations that surface real needs
-- Qualify interest without being pushy
-- Collect contact info and permission to follow up
-- Run a weekly routine that compounds results
+This module is where everything stops being “training content” and starts becoming **a repeatable system**.
 
-## Start here
-➡️ **Lesson 7.1: Case studies (what actually worked)** → [Case studies (what actually worked)](lesson-01-case-studies.md)
+Up to now, you’ve learned:
+- what a lead really is (and what it isn’t)
+- how relationships create opportunities
+- how social presence creates familiarity
+- how referrals make your name travel
+- how follow-up turns “nice chat” into momentum
 
-## Lessons
-1. **Lesson 7.1:** [Case studies (what actually worked)](lesson-01-case-studies.md)
-1. **Lesson 7.2:** [Role-playing scripts (practice reps)](lesson-02-role-playing.md)
-1. **Lesson 7.3:** [Feedback loops and continuous improvement](lesson-03-feedback-and-improvement.md)
+Now we pressure-test it in real situations:
+- real conversations
+- real objections
+- real uncertainty
+- real follow-up timelines
 
-## Practice
-- 🧠 [Exercises](exercises.md)
-- ✅ [Quiz](quiz.md)
+## What I’m trying to build (my outcome)
+By the end of this module, I want a simple, honest answer to these questions:
+
+1) **Where do my best leads actually come from?**  
+2) **What are the 3–5 repeatable moments that create them?**  
+3) **What do I do next, consistently, when I spot one?**  
+4) **How do I improve without getting weird or salesy?**
+
+## How to use Module 7
+- Read Lesson 7.1 and choose **one case study pattern** to copy this week.
+- Do Lesson 7.2 role-plays **out loud** (even alone — it works).
+- Use Lesson 7.3 to build a feedback loop so your skills improve every week.
+
+## Files in this module
+- Lesson 7.1: Case Studies (patterns you can copy)
+- Lesson 7.2: Role-Playing (scripts + reps)
+- Lesson 7.3: Feedback & Improvement (your weekly tuning system)
+- Exercises: practical work
+- Quiz: check your understanding
