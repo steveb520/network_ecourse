@@ -1,20 +1,13 @@
 site_name: Mastering Lead Generation Through Everyday Interactions
 
-# IMPORTANT:
-# Your course markdown lives in /mastering-lead-generation
 docs_dir: mastering-lead-generation
-
-# GitHub Pages workflow uploads this folder
 site_dir: _site
 
 theme:
   name: material
   features:
-    # Enables next/previous buttons at the bottom of pages (Material calls it footer nav)
     - navigation.footer
-    # Lets you expand/collapse sections in the left nav
     - navigation.sections
-    # Keeps the right-side table of contents following you
     - toc.follow
 
 nav:
@@ -54,7 +47,6 @@ nav:
           - Exercises: modules/module-04-social-media/exercises.md
           - Quiz: modules/module-04-social-media/quiz.md
 
-      # Keep the folder name as-is for stability, even if you renamed the module title.
       - "Module 5: Becoming the Name People Share":
           - Overview: modules/module-05-elevator-pitch/README.md
           - Lesson 5.1: modules/module-05-elevator-pitch/lesson-01-what-is-an-elevator-pitch.md
