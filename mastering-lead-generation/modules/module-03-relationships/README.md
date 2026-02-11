@@ -1,3 +1,11 @@
+## Why This Matters for Deal Quality
+
+Relationships are not just about referrals.
+
+They influence how you’re introduced, how you’re perceived, and how much credibility you carry before the first conversation begins.
+
+This module begins the shift from casual networking to understanding how professional relationships shape the quality of opportunities you receive.
+
 # Module 3: Building Relationships
 
 Lead generation does not start with a pitch.  
