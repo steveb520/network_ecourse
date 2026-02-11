@@ -1,52 +1,111 @@
-# Lesson 7.1: Case studies (what actually worked)
+# Lesson 7.1: Case Studies (Patterns You Can Copy)
 
+Most people think “lead generation” is a personality trait — like you either have it or you don’t.
 
-## Key idea
-Write 1–2 sentences in your own words: **what is this lesson really about?**
+I don’t buy that.
 
-## Definitions (plain English)
-- **Lead:** someone with a problem you can solve *and* a path to becoming a customer (now or later).
-- **Signal:** a phrase or behavior that suggests interest, urgency, budget, or authority.
-- **Next step:** a small, low-pressure action that moves the relationship forward.
+The best lead generators I know aren’t the loudest people. They’re the people who:
+- notice repeatable patterns
+- show up consistently
+- follow up without making it awkward
+- make it easy for others to help them
 
-## The framework
-### 1) Notice signals
-Examples:
-- “We’ve been thinking about…”
-- “Do you know anyone who…”
-- “We’re comparing options…”
+This lesson is a set of **patterns** I can copy.
 
-### 2) Ask one great question
-Use an open-ended question that invites detail:
-- “What’s making this important right now?”
-- “What have you tried so far?”
-- “What would ‘done’ look like?”
+---
 
-### 3) Offer value in 30 seconds
-- A quick tip
-- A short checklist
-- A common mistake to avoid
-- A resource you can send
+## Case Study Pattern #1: The “Helpful Specialist” (trust > charisma)
 
-### 4) Permission-based next step
-- “Want me to text you that checklist?”
-- “If I send a 2-minute summary, would that be useful?”
-- “Want to compare notes for 10 minutes this week?”
+**Situation:** Someone mentions a problem casually.  
+**Most people:** nod and move on.  
+**What I do:** I offer a small, specific next step that reduces their uncertainty.
 
-## Practical examples
-Write 2 examples relevant to your work:
-1. Situation: ________  Signal: ________  Question: ________  Next step: ________
-2. Situation: ________  Signal: ________  Question: ________  Next step: ________
+### What this looks like in the real world
+Someone says:
+- “We’re thinking about switching systems.”
+- “We’ve had a hard time hiring.”
+- “I keep getting inconsistent results.”
+- “We need a better process.”
 
-## Mini exercise (5 minutes)
-Pick one person you talk to regularly (customer, friend, neighbor, vendor).
-- What signals do they show?
-- What question would you ask?
-- What value can you offer fast?
-- What next step can you ask permission for?
+I respond with:
+1) **One clarifying question**
+2) **One 30-second helpful insight**
+3) **One low-pressure next step**
 
-## Checklist
-- [ ] I can explain this lesson in 1 sentence
-- [ ] I have 3 questions ready to use
-- [ ] I can name 2 “value offers” I can deliver quickly
-- [ ] I have a permission-based follow-up line
+### Example (script)
+> “What’s the main thing you want to improve — speed, cost, or quality?”  
+> “Got it. One thing that usually helps is ____ (quick insight).”  
+> “If you want, I can send you a simple checklist I use. Want that?”
+
+**Why it works:** it’s not a pitch. It’s a contribution.  
+**Leads come later** because I became a safe person to talk to.
+
+---
+
+## Case Study Pattern #2: The “Connector” (I win by connecting others)
+
+**Situation:** I meet two people who could help each other.  
+**Most people:** think “cool” and do nothing.  
+**What I do:** I introduce them with clarity and context.
+
+### Example intro message (copy/paste)
+> “Hey Alex — meet Jordan. Alex is working on ____. Jordan has done ____.  
+> I thought you two should connect because _____.  
+> If it’s helpful, I’ll let you take it from here.”
+
+**Why it works:**  
+When I become someone who **creates value between other people**, they remember me and bring me into opportunities later.
+
+This is one of the fastest “quiet” ways to build network power.
+
+---
+
+## Case Study Pattern #3: The “Consistent Presence” (familiarity creates inbound)
+
+**Situation:** People don’t refer who they don’t remember.  
+**What I do:** I stay lightly visible in a way that feels normal.
+
+### What I post (simple, repeatable)
+- one lesson learned this week
+- one mistake I see people make
+- one tiny framework
+- one short story with a takeaway
+
+### The rule I follow
+If someone saw my content once a week for 8 weeks, could they answer:
+- what I do
+- who I help
+- what I’m known for
+
+If not, I simplify my message.
+
+---
+
+## Case Study Pattern #4: The “Follow-Up Pro” (I don’t let good moments die)
+
+**Situation:** A good conversation ends.  
+**Most people:** “We should stay in touch” and nothing happens.  
+**What I do:** I choose a next step immediately.
+
+### The 3 next steps I use most
+1) **Send a resource** (checklist, example, template)
+2) **Make a warm intro** to someone who helps them
+3) **Schedule a short call** with a clear purpose
+
+### My follow-up rule
+If I can’t describe the next step in one sentence, it’s too big.
+
+Good:
+- “I’ll send you that checklist today.”
+- “Want me to introduce you to Sam?”
+
+Bad:
+- “Let’s circle back sometime.”
+
+---
+
+## Your takeaway (what I want to remember)
+Case studies aren’t inspiration. They’re **recipes**.
+
+I’m not trying to be “good at networking.”  
+I’m trying to run a few repeatable plays so leads become predictable.
