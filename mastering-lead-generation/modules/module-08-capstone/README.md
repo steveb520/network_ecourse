@@ -1,3 +1,11 @@
+## Why This Matters for Deal Quality
+
+Awareness is the first step.
+
+By now, you understand how positioning and relationships influence opportunity quality.
+
+The next question is whether you are actively shaping your positioning — or leaving it to chance.
+
 # Module 8: Capstone — Build Your Personal Lead Engine
 
 This is not a “final exam.”
