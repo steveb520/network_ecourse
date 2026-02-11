@@ -1,52 +1,69 @@
-# Lesson 6.3: CRM systems (simple setup that sticks)
-
+# Lesson 6.3: A Simple CRM System That Keeps Leads Alive
 
 ## Key idea
-Write 1–2 sentences in your own words: **what is this lesson really about?**
+A CRM isn’t a software.  
+A CRM is **a decision system** for what I do next.
 
-## Definitions (plain English)
-- **Lead:** someone with a problem you can solve *and* a path to becoming a customer (now or later).
-- **Signal:** a phrase or behavior that suggests interest, urgency, budget, or authority.
-- **Next step:** a small, low-pressure action that moves the relationship forward.
+Tools help, but the real win is having a process I repeat.
 
-## The framework
-### 1) Notice signals
-Examples:
-- “We’ve been thinking about…”
-- “Do you know anyone who…”
-- “We’re comparing options…”
+## My “minimum viable CRM”
+I only need 5 fields:
 
-### 2) Ask one great question
-Use an open-ended question that invites detail:
-- “What’s making this important right now?”
-- “What have you tried so far?”
-- “What would ‘done’ look like?”
+1) **Name**
+2) **Where I met them / context**
+3) **Problem they care about**
+4) **Status**
+5) **Next follow-up date**
 
-### 3) Offer value in 30 seconds
-- A quick tip
-- A short checklist
-- A common mistake to avoid
-- A resource you can send
+That’s it. If my CRM has 27 fields, I’ll stop using it.
 
-### 4) Permission-based next step
-- “Want me to text you that checklist?”
-- “If I send a 2-minute summary, would that be useful?”
-- “Want to compare notes for 10 minutes this week?”
+## Status stages (simple pipeline)
+I use these stages:
 
-## Practical examples
-Write 2 examples relevant to your work:
-1. Situation: ________  Signal: ________  Question: ________  Next step: ________
-2. Situation: ________  Signal: ________  Question: ________  Next step: ________
+- **New** (met them / first convo)
+- **Warm** (they replied / interest)
+- **Scheduled** (call/meeting set)
+- **Active** (in process now)
+- **Paused** (not now, later)
+- **Closed** (won/lost)
 
-## Mini exercise (5 minutes)
-Pick one person you talk to regularly (customer, friend, neighbor, vendor).
-- What signals do they show?
-- What question would you ask?
-- What value can you offer fast?
-- What next step can you ask permission for?
+The goal is not perfection — it’s clarity.
 
-## Checklist
-- [ ] I can explain this lesson in 1 sentence
-- [ ] I have 3 questions ready to use
-- [ ] I can name 2 “value offers” I can deliver quickly
-- [ ] I have a permission-based follow-up line
+## The follow-up engine: reminders + batches
+I set my system up so I’m not “remembering,” I’m **reviewing**.
+
+### Daily (5 minutes)
+- check “follow-up today”
+- send 3–5 messages
+
+### Weekly (20 minutes)
+- move stalled leads to “Paused”
+- schedule next touches
+- add notes from conversations
+
+## Tagging (optional, but powerful)
+Tags help me personalize quickly:
+- “Budget-sensitive”
+- “Needs approval”
+- “Comparing options”
+- “Urgent timeline”
+- “Referred by ___”
+
+## What I do after every conversation (60 seconds)
+Before I close my laptop, I write:
+
+- **What they want:** ___
+- **Why now:** ___
+- **Next step:** ___
+- **Follow-up date:** ___
+
+If I do this consistently, I stop losing leads.
+
+## The secret to long-term conversion
+Most deals are won by the person who:
+- follows up
+- stays useful
+- stays present
+- doesn’t get weird
+
+A CRM makes that automatic.
