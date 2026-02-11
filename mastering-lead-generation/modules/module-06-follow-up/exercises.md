@@ -1,41 +1,58 @@
-# Module 6: Follow-Up Strategies — Exercises
+# Module 6 Exercises: Follow-Up System Builder
 
-## Exercise 1: Signal spotting (real life)
-Over the next 24 hours, write down **5 signals** you hear in conversations.
+## Exercise 1: Write my 5 follow-up templates
+Write (and save) these 5 messages in a notes app or CRM:
 
-For each, capture:
-- Who said it:
-- What they said (quote):
-- What it might indicate (need / timing / budget / authority):
-- Your best next question:
+1) Same-day recap
+2) 48-hour value drop
+3) Permission-based next step
+4) “Answer the question they didn’t ask”
+5) Closing the loop
 
-## Exercise 2: 10 conversation reps
-Have 10 short conversations this week.
-Goal: **one helpful question + one value offer**.
+**My rule:** each message is under 6 lines.
 
-Track:
-- Person:
-- Where:
-- Signal:
-- Question asked:
-- Value offered:
-- Next step requested:
-- Outcome:
+---
 
-## Exercise 3: Follow-up permission script
-Write 3 versions of a follow-up line:
-1) Text
-2) Email
-3) DM
+## Exercise 2: Create my follow-up schedule
+Pick one schedule and commit to it for 30 days.
 
-Examples:
-- “Want me to send you a quick checklist I use?”
-- “If I send 3 options, would that help?”
-- “Want to pick a time for 10 minutes this week?”
+**Option A (short cycle):**
+- Day 0, Day 2, Day 7, Day 14, monthly
 
-## Exercise 4: Personal action plan (mini)
-Fill this out:
-- My ideal lead is: ______________________
-- The top 3 problems I solve are: 1) ___ 2) ___ 3) ___
-- My best “value offer” is: ______________________
-- My weekly target is: ___ conversations, ___ follow-ups, ___ booked calls
+**Option B (long cycle):**
+- Day 0, Day 3, Day 10, Day 21, monthly
+
+Write it down:
+- My schedule: ___
+
+---
+
+## Exercise 3: Build my minimum viable CRM
+Use whatever you’ll actually use:
+- spreadsheet
+- notes app
+- CRM tool
+
+Create columns/fields:
+- Name
+- Context
+- Problem
+- Status
+- Next follow-up date
+
+Add 10 real people from your network.
+
+---
+
+## Exercise 4: Send 3 follow-ups today
+Pick 3 people you’ve been meaning to reach out to.
+
+Use the templates and send:
+- 1 recap
+- 1 value drop
+- 1 closing-the-loop
+
+Write results:
+- Who replied?
+- What worked?
+- What needs adjusting?
