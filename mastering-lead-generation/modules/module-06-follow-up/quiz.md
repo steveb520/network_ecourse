@@ -1,16 +1,44 @@
-# Module 6: Follow-Up Strategies — Quiz
+# Module 6 Quiz: Follow-Up Mastery
 
-**Instructions:** answer without looking back first. Then review.
+## 1) Why do most leads go cold?
+A) They hate salespeople  
+B) Attention fades and life gets busy  
+C) They never had a problem  
+D) They’re always price shopping
 
-1) In your own words, what is a “lead”?  
-2) Give 3 examples of conversation “signals.”  
-3) Write one open-ended qualifying question you can use today.  
-4) What is a permission-based next step? Give 2 examples.  
-5) What is one “value offer” you can deliver in under 60 seconds?
+---
 
-## Answer key (self-check)
-- A lead has a problem you can solve and a realistic path to becoming a customer.
-- Signals reveal need, urgency, authority, or willingness to engage.
-- Great questions invite context, not yes/no.
-- Permission-based next steps are low-pressure and respectful (“Want me to…”).
-- Value offers are small helpful assets: checklist, quick tip, estimate range, intro, etc.
+## 2) What’s the best replacement for “Just checking in”?
+A) A longer message explaining your services  
+B) A message with a reason + value + simple next step  
+C) A message asking “Did you decide yet?”  
+D) No follow-up at all
+
+---
+
+## 3) True or false:
+Follow-up is mainly about convincing someone to buy.
+- True
+- False
+
+---
+
+## 4) Which follow-up gets the most replies?
+A) “Any update?”  
+B) “Just circling back”  
+C) A message that makes choosing easy (A/B/C options)  
+D) A message with three paragraphs of detail
+
+---
+
+## 5) What are the 5 minimum CRM fields?
+Write them in your own words.
+
+---
+
+## Answer key
+1) B  
+2) B  
+3) False (it’s about staying useful + building confidence)  
+4) C  
+5) Name, context, problem, status, next follow-up date
