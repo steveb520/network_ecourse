@@ -1,16 +1,59 @@
-# Module 8: Capstone — Quiz
+# Module 8 Quiz (Capstone Check)
 
-**Instructions:** answer without looking back first. Then review.
+## 1) The goal of the capstone is to…
+A) learn more theory  
+B) build a perfect system  
+C) design a clear, repeatable lead process  
+D) close more deals immediately  
 
-1) In your own words, what is a “lead”?  
-2) Give 3 examples of conversation “signals.”  
-3) Write one open-ended qualifying question you can use today.  
-4) What is a permission-based next step? Give 2 examples.  
-5) What is one “value offer” you can deliver in under 60 seconds?
+**Answer:** C
 
-## Answer key (self-check)
-- A lead has a problem you can solve and a realistic path to becoming a customer.
-- Signals reveal need, urgency, authority, or willingness to engage.
-- Great questions invite context, not yes/no.
-- Permission-based next steps are low-pressure and respectful (“Want me to…”).
-- Value offers are small helpful assets: checklist, quick tip, estimate range, intro, etc.
+---
+
+## 2) A lead system should focus most on…
+A) tools  
+B) scripts  
+C) clarity and consistency  
+D) automation  
+
+**Answer:** C
+
+---
+
+## 3) Success in conversations should be measured by…
+A) closing the deal  
+B) sounding confident  
+C) setting a clear next step  
+D) talking more  
+
+**Answer:** C
+
+---
+
+## 4) Why document your playbook?
+A) so it looks professional  
+B) so others can copy you  
+C) so you can repeat and improve it  
+D) so it’s longer  
+
+**Answer:** C
+
+---
+
+## 5) The 30-day commitment exists mainly to…
+A) prove discipline  
+B) avoid rebuilding too early  
+C) test tools  
+D) increase pressure  
+
+**Answer:** B
+
+---
+
+## 6) The best improvement strategy is to…
+A) overhaul everything  
+B) copy someone else  
+C) make one small adjustment each week  
+D) wait for motivation  
+
+**Answer:** C
