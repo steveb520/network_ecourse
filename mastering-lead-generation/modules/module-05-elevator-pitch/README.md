@@ -1,3 +1,13 @@
+## Why This Matters for Deal Quality
+
+When you become known in your market, opportunity dynamics change.
+
+Price resistance lowers.
+Trust builds faster.
+Conversations shift.
+
+This module introduces the identity shift from being “a rep” to becoming a recognized name inside your professional ecosystem.
+
 # Module 5: Becoming the Name People Share
 
 The highest-quality leads don’t come from “marketing harder.”
