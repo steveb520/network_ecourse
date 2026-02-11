@@ -1,41 +1,70 @@
-# Module 7: Real-Life Applications — Exercises
+# Module 7 Exercises: Make It Real
 
-## Exercise 1: Signal spotting (real life)
-Over the next 24 hours, write down **5 signals** you hear in conversations.
+## Exercise 1: Choose your “one pattern” this week
+Pick ONE pattern from Lesson 7.1:
+- Helpful Specialist
+- Connector
+- Consistent Presence
+- Follow-Up Pro
 
-For each, capture:
-- Who said it:
-- What they said (quote):
-- What it might indicate (need / timing / budget / authority):
-- Your best next question:
+Write it here:
+- My pattern: ___________
+- Why I chose it: ___________
 
-## Exercise 2: 10 conversation reps
-Have 10 short conversations this week.
-Goal: **one helpful question + one value offer**.
+---
 
-Track:
-- Person:
-- Where:
-- Signal:
-- Question asked:
-- Value offered:
-- Next step requested:
-- Outcome:
+## Exercise 2: Run 3 real conversations
+This week, intentionally start 3 conversations using your pattern.
 
-## Exercise 3: Follow-up permission script
-Write 3 versions of a follow-up line:
-1) Text
-2) Email
-3) DM
+For each one:
+1) Who did I talk to?
+2) What problem did they mention?
+3) What question did I ask?
+4) What value did I offer?
+5) What was the next step?
 
-Examples:
-- “Want me to send you a quick checklist I use?”
-- “If I send 3 options, would that help?”
-- “Want to pick a time for 10 minutes this week?”
+Conversation #1:
+- Who:
+- Problem:
+- Question:
+- Value:
+- Next step:
 
-## Exercise 4: Personal action plan (mini)
-Fill this out:
-- My ideal lead is: ______________________
-- The top 3 problems I solve are: 1) ___ 2) ___ 3) ___
-- My best “value offer” is: ______________________
-- My weekly target is: ___ conversations, ___ follow-ups, ___ booked calls
+Conversation #2:
+- Who:
+- Problem:
+- Question:
+- Value:
+- Next step:
+
+Conversation #3:
+- Who:
+- Problem:
+- Question:
+- Value:
+- Next step:
+
+---
+
+## Exercise 3: Do one role-play (out loud)
+Choose one scenario from Lesson 7.2:
+- Casual mention
+- Referral moment
+- Objection
+
+Write which one: ___________
+
+Record yourself answering it once. Then write:
+- One thing I liked:
+- One thing I’ll improve:
+
+---
+
+## Exercise 4: Build your weekly review note
+Create a simple note titled “Lead Gen Weekly Review” and paste this template:
+
+- Best conversation this week:
+- Why it worked:
+- Weak moment this week:
+- Better question I’ll use next time:
+- Next step I’ll standardize:
