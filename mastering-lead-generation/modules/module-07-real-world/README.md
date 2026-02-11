@@ -1,3 +1,9 @@
+## Why This Matters for Deal Quality
+
+Understanding positioning conceptually is different from applying it.
+
+This module explores how positioning and relationship leverage show up in real-world sales environments — and why some reps consistently receive better opportunities than others.
+
 # Module 7: Real-World Application (Make It Real)
 
 This module is where everything stops being “training content” and starts becoming **a repeatable system**.
