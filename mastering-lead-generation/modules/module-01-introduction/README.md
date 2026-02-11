@@ -1,3 +1,13 @@
+## Why This Matters for Deal Quality
+
+Most reps focus on improving skill — presentation, objections, closing.
+
+But deal quality is influenced before skill is ever applied.
+
+This module introduces the idea that positioning — how you’re perceived in your market — directly affects the level of trust, intent, and competition present in every opportunity.
+
+Before you improve how you sell, you need to understand how you’re positioned.
+
 # Module 1: Introduction to Lead Generation
 
 ## What you’ll learn
