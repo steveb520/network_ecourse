@@ -1,41 +1,42 @@
-# Module 8: Capstone — Exercises
+# Module 8 Exercises: Build and Commit
 
-## Exercise 1: Signal spotting (real life)
-Over the next 24 hours, write down **5 signals** you hear in conversations.
+## Exercise 1: Write your one-page playbook
+Use Lesson 8.2 and write your full playbook.
+Do not overthink it.
+Done > perfect.
 
-For each, capture:
-- Who said it:
-- What they said (quote):
-- What it might indicate (need / timing / budget / authority):
-- Your best next question:
+---
 
-## Exercise 2: 10 conversation reps
-Have 10 short conversations this week.
-Goal: **one helpful question + one value offer**.
+## Exercise 2: Test your system once
+This week, intentionally:
+- start one conversation
+- follow your default flow
+- send the follow-up
 
-Track:
-- Person:
-- Where:
+Write what happened:
+- Who:
 - Signal:
-- Question asked:
-- Value offered:
-- Next step requested:
+- Question:
+- Value:
+- Next step:
 - Outcome:
 
-## Exercise 3: Follow-up permission script
-Write 3 versions of a follow-up line:
-1) Text
-2) Email
-3) DM
+---
 
-Examples:
-- “Want me to send you a quick checklist I use?”
-- “If I send 3 options, would that help?”
-- “Want to pick a time for 10 minutes this week?”
+## Exercise 3: Teach it to someone else
+Explain your system to a friend in under 2 minutes.
 
-## Exercise 4: Personal action plan (mini)
-Fill this out:
-- My ideal lead is: ______________________
-- The top 3 problems I solve are: 1) ___ 2) ___ 3) ___
-- My best “value offer” is: ______________________
-- My weekly target is: ___ conversations, ___ follow-ups, ___ booked calls
+If they understand it, it’s clear.
+If they don’t, simplify it.
+
+Write what you changed after explaining it:
+______________________________________
+
+---
+
+## Exercise 4: Schedule your weekly review
+Put a recurring 15-minute block on your calendar:
+- Day:
+- Time:
+
+Non-negotiable.
