@@ -1,3 +1,11 @@
+## Why This Matters for Deal Quality
+
+Visibility affects perception.
+
+Whether online or offline, your presence influences how buyers and industry professionals frame you before engaging.
+
+This module reframes social visibility as a positioning tool — not a content strategy — and explores how perception shapes opportunity quality.
+
 # Module 4: Leveraging Social Media
 
 ## What you’ll learn
