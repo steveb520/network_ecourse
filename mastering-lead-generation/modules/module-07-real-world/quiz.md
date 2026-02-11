@@ -1,16 +1,59 @@
-# Module 7: Real-Life Applications — Quiz
+# Module 7 Quiz (Check Your Understanding)
 
-**Instructions:** answer without looking back first. Then review.
+## 1) Case studies are most useful when they…
+A) inspire you  
+B) give you a repeatable pattern you can copy  
+C) make you feel motivated  
+D) explain theory in detail  
 
-1) In your own words, what is a “lead”?  
-2) Give 3 examples of conversation “signals.”  
-3) Write one open-ended qualifying question you can use today.  
-4) What is a permission-based next step? Give 2 examples.  
-5) What is one “value offer” you can deliver in under 60 seconds?
+**Answer:** B
 
-## Answer key (self-check)
-- A lead has a problem you can solve and a realistic path to becoming a customer.
-- Signals reveal need, urgency, authority, or willingness to engage.
-- Great questions invite context, not yes/no.
-- Permission-based next steps are low-pressure and respectful (“Want me to…”).
-- Value offers are small helpful assets: checklist, quick tip, estimate range, intro, etc.
+---
+
+## 2) In the “Helpful Specialist” pattern, what sequence works best?
+A) pitch → explain → ask for a meeting  
+B) ask for budget → offer discount → close  
+C) question → small value → permission-based next step  
+D) talk about yourself → show credentials → ask for referral  
+
+**Answer:** C
+
+---
+
+## 3) What’s the best reason to role-play?
+A) it looks professional  
+B) it helps you talk longer  
+C) it builds muscle memory so you don’t freeze live  
+D) it’s required for networking  
+
+**Answer:** C
+
+---
+
+## 4) In objection handling, the goal is mainly to…
+A) argue your point  
+B) reduce pressure and increase clarity  
+C) overcome resistance immediately  
+D) prove you’re right  
+
+**Answer:** B
+
+---
+
+## 5) The weekly improvement loop should focus on…
+A) fixing everything at once  
+B) one moment to improve + one practice rep  
+C) reading more books  
+D) getting more followers  
+
+**Answer:** B
+
+---
+
+## 6) What is the best low-friction feedback question to ask someone?
+A) “Do you think I’m good at sales?”  
+B) “Would you buy from me?”  
+C) “When you describe what I do, what do you say?”  
+D) “Can you refer me to 3 people?”  
+
+**Answer:** C
