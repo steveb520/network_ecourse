@@ -1,4 +1,4 @@
-# Lesson 4.3: Engagement systems (comments, DMs, groups)
+# Lesson 4.1: Social media basics for lead gen
 
 
 ## Key idea

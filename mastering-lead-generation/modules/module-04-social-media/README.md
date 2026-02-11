@@ -1,30 +1,19 @@
-# Module 4: Crafting Your Elevator Pitch
+# Module 4: Leveraging Social Media
 
-Most elevator pitches fail for one simple reason:  
-they’re designed to impress instead of connect.
+## What you’ll learn
+- Start conversations that surface real needs
+- Qualify interest without being pushy
+- Collect contact info and permission to follow up
+- Run a weekly routine that compounds results
 
-In this module, I focus on building a pitch that feels natural, flexible, and usable in real conversations — not something memorized or robotic.
+## Start here
+➡️ **Lesson 4.1: Social media basics for lead gen** → [Social media basics for lead gen](lesson-01-social-media-basics.md)
 
-A good elevator pitch doesn’t sound like a pitch at all.  
-It sounds like clarity.
+## Lessons
+1. **Lesson 4.1:** [Social media basics for lead gen](lesson-01-social-media-basics.md)
+1. **Lesson 4.2:** [Build an online presence that converts](lesson-02-building-your-online-presence.md)
+1. **Lesson 4.3:** [Engagement systems (comments, DMs, groups)](lesson-03-engaging-with-your-audience.md)
 
----
-
-## What You’ll Learn
-- What an elevator pitch is actually for
-- How to structure your message without sounding rehearsed
-- How to adapt your pitch based on who you’re talking to
-
----
-
-## Lessons in This Module
-- **Lesson 4.1:** What an Elevator Pitch Really Is  
-- **Lesson 4.2:** Building a Pitch That Works  
-- **Lesson 4.3:** Tailoring Your Pitch to Different Audiences  
-
----
-
-## How to Use This Module
-Read these lessons with your own voice in mind.
-
-You are not trying to sound like someone else — you’re trying to sound like the most clear version of yourself.
+## Practice
+- 🧠 [Exercises](exercises.md)
+- ✅ [Quiz](quiz.md)
