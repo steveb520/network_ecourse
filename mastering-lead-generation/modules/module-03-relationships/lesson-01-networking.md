@@ -1,4 +1,3 @@
-# TEST MARKER 123
 # Lesson 3.1: The Power of Networking
 
 Networking has a bad reputation because most people misunderstand it.
