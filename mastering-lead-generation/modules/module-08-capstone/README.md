@@ -1,19 +1,35 @@
-# Module 8: Capstone
+# Module 8: Capstone — Build Your Personal Lead Engine
 
-## What you’ll learn
-- Start conversations that surface real needs
-- Qualify interest without being pushy
-- Collect contact info and permission to follow up
-- Run a weekly routine that compounds results
+This is not a “final exam.”
 
-## Start here
-➡️ **Lesson 8.1: Recap + your operating system** → [Recap + your operating system](lesson-01-recap-of-key-learnings.md)
+This is where I stop consuming information and start **owning a system**.
 
-## Lessons
-1. **Lesson 8.1:** [Recap + your operating system](lesson-01-recap-of-key-learnings.md)
-1. **Lesson 8.2:** [Set goals + weekly cadence](lesson-02-setting-personal-goals.md)
-1. **Lesson 8.3:** [Resources + next steps](lesson-03-additional-resources.md)
+Everything I’ve learned so far only matters if:
+- I can explain it simply
+- I can run it consistently
+- I can improve it over time
 
-## Practice
-- 🧠 [Exercises](exercises.md)
-- ✅ [Quiz](quiz.md)
+The capstone is about turning scattered effort into **one clear operating system** for how leads find me.
+
+---
+
+## What I’m building by the end
+By the end of this module, I should be able to answer — confidently and simply:
+
+1) How do new opportunities usually start for me?
+2) Where do my best leads *actually* come from?
+3) What do I do when I spot one?
+4) How do I follow up without being annoying?
+5) How do I make it easy for others to refer me?
+
+If I can’t answer those in plain language, the system isn’t done yet.
+
+---
+
+## How to use the capstone
+- Lesson 8.1 → clarify the system
+- Lesson 8.2 → document it
+- Lesson 8.3 → commit to running it for 30 days
+
+This isn’t about perfection.  
+It’s about **clarity + consistency**.
