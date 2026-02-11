@@ -1,3 +1,11 @@
+## Why This Matters for Deal Quality
+
+Follow-up is not just about closing deals.
+
+It reinforces trust, strengthens positioning, and shapes how you’re remembered inside your network.
+
+Consistent, professional follow-up influences whether future opportunities arrive cold… or pre-framed.
+
 # Module 6: Follow-Up That Converts (Without Being Annoying)
 
 Most people don’t lose leads because they’re bad at talking.  
