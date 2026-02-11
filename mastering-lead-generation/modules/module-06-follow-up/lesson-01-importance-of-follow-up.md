@@ -1,52 +1,64 @@
-# Lesson 6.1: Why follow-up is where conversions happen
-
+# Lesson 6.1: Why Follow-Up Works (and Why Most People Don’t Do It)
 
 ## Key idea
-Write 1–2 sentences in your own words: **what is this lesson really about?**
+Follow-up works because *attention fades*, not because people don’t care.
 
-## Definitions (plain English)
-- **Lead:** someone with a problem you can solve *and* a path to becoming a customer (now or later).
-- **Signal:** a phrase or behavior that suggests interest, urgency, budget, or authority.
-- **Next step:** a small, low-pressure action that moves the relationship forward.
+Most leads don’t ghost because they hate you. They ghost because life gets loud.
 
-## The framework
-### 1) Notice signals
-Examples:
-- “We’ve been thinking about…”
-- “Do you know anyone who…”
-- “We’re comparing options…”
+## What follow-up really signals
+When I follow up the right way, I’m telling someone:
 
-### 2) Ask one great question
-Use an open-ended question that invites detail:
-- “What’s making this important right now?”
-- “What have you tried so far?”
-- “What would ‘done’ look like?”
+- **“I’m organized.”** (I remember what you said.)
+- **“I’m consistent.”** (I do what I say I’ll do.)
+- **“I’m safe.”** (You won’t regret choosing me.)
+- **“I’m helpful.”** (I bring value, not pressure.)
 
-### 3) Offer value in 30 seconds
-- A quick tip
-- A short checklist
-- A common mistake to avoid
-- A resource you can send
+That’s why follow-up increases conversions. It builds confidence.
 
-### 4) Permission-based next step
-- “Want me to text you that checklist?”
-- “If I send a 2-minute summary, would that be useful?”
-- “Want to compare notes for 10 minutes this week?”
+## The real reason I avoid follow-up
+If I’m honest, I avoid follow-up for two reasons:
 
-## Practical examples
-Write 2 examples relevant to your work:
-1. Situation: ________  Signal: ________  Question: ________  Next step: ________
-2. Situation: ________  Signal: ________  Question: ________  Next step: ________
+1) **Fear of rejection**  
+No reply feels like failure. So I delay.
 
-## Mini exercise (5 minutes)
-Pick one person you talk to regularly (customer, friend, neighbor, vendor).
-- What signals do they show?
-- What question would you ask?
-- What value can you offer fast?
-- What next step can you ask permission for?
+2) **Fear of being “salesy”**  
+I don’t want to bug people or sound desperate.
 
-## Checklist
-- [ ] I can explain this lesson in 1 sentence
-- [ ] I have 3 questions ready to use
-- [ ] I can name 2 “value offers” I can deliver quickly
-- [ ] I have a permission-based follow-up line
+The fix is simple: **stop treating follow-up like a request** and start treating it like **a service.**
+
+## The Follow-Up Mindset Shift
+Old mindset: “I’m checking in to see if you decided.”  
+New mindset: “I’m sharing something useful based on what you told me.”
+
+When I lead with value, follow-up stops feeling awkward.
+
+## Timing: When should I follow up?
+Here’s a simple rhythm that works in most industries:
+
+- **Same day:** short, “great talking” + one useful link/summary
+- **48 hours:** a helpful nudge or clarification
+- **7 days:** a “next step” offer or a quick resource
+- **14 days:** a “closing the loop” message
+- **Monthly:** a light touch with value (if it’s long-cycle)
+
+## What to track (so it doesn’t get messy)
+Every follow-up should have a reason. I track:
+
+- What we talked about (1 sentence)
+- The next step we agreed on (or I suggested)
+- The last message I sent
+- When I’ll follow up again
+
+If I can’t summarize those in 10 seconds, my system is too complicated.
+
+## The rule that keeps me from being annoying
+**Never send the same message twice.**
+
+Each follow-up should add something:
+- a quick idea
+- a checklist
+- a short example
+- a decision framework
+- a helpful question
+
+Value earns attention. Pressure destroys it.
