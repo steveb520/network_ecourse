@@ -1,19 +1,27 @@
-# Module 6: Follow-Up Strategies
+# Module 6: Follow-Up That Converts (Without Being Annoying)
 
-## What you’ll learn
-- Start conversations that surface real needs
-- Qualify interest without being pushy
-- Collect contact info and permission to follow up
-- Run a weekly routine that compounds results
+Most people don’t lose leads because they’re bad at talking.  
+They lose leads because they *disappear after the first good conversation.*
 
-## Start here
-➡️ **Lesson 6.1: Why follow-up is where conversions happen** → [Why follow-up is where conversions happen](lesson-01-importance-of-follow-up.md)
+Follow-up is where trust gets built. It’s also where you prove you’re organized, reliable, and worth choosing.
 
-## Lessons
-1. **Lesson 6.1:** [Why follow-up is where conversions happen](lesson-01-importance-of-follow-up.md)
-1. **Lesson 6.2:** [Follow-up messages that get replies](lesson-02-follow-up-messages.md)
-1. **Lesson 6.3:** [CRM systems (simple setup that sticks)](lesson-03-crm-tools.md)
+## What I’ll learn in this module
+By the end of Module 6, I will be able to:
 
-## Practice
-- 🧠 [Exercises](exercises.md)
-- ✅ [Quiz](quiz.md)
+- Follow up with confidence, without sounding needy or salesy
+- Use simple “value-first” messages that get replies
+- Build a repeatable follow-up system so I don’t drop warm leads
+- Track leads in a lightweight CRM workflow (even if it’s just notes + tags)
+
+## What’s inside
+- **Lesson 6.1:** Why follow-up works (and why most people avoid it)
+- **Lesson 6.2:** Follow-up messages that get responses
+- **Lesson 6.3:** A simple CRM system that keeps my pipeline alive
+- **Exercises:** Build my follow-up templates + a 7-day follow-up plan
+- **Quiz:** Confirm I can apply it in real life
+
+## My goal for this module
+I will leave this module with:
+1) 5 follow-up messages I can send immediately  
+2) a follow-up schedule I can repeat  
+3) a system that prevents leads from falling through the cracks
